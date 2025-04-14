@@ -31,24 +31,15 @@ MongoDB or any other database system (if you're using a database)
 Git (for cloning the repository)
 
 Clone the Repository
-bash
-Copy
-Edit
+
 git clone https://github.com/yourusername/student-job-tracker.git
 Install Dependencies
 Navigate to the project directory and install the required dependencies:
-
-bash
-Copy
-Edit
 cd student-job-tracker
 npm install
 Running the Application
 To start the development server:
 
-bash
-Copy
-Edit
 npm start
 Your application should now be running at http://localhost:3000.
 
