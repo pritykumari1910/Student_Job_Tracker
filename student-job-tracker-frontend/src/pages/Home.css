@@ -1,0 +1,14 @@
+/* Home.css */
+
+.home-container {
+    max-width: 40rem; /* Equivalent to Tailwind's max-w-xl */
+    margin: 0 auto;
+    padding: 1rem;
+  }
+  
+  .home-title {
+    font-size: 1.5rem; /* Tailwind's text-2xl */
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  

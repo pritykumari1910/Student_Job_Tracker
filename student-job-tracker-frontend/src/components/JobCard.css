@@ -1,0 +1,40 @@
+/* JobCard.css */
+
+.job-card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+  }
+  
+  .job-company {
+    font-size: 1.125rem; /* text-lg */
+    font-weight: bold;
+  }
+  
+  .job-link {
+    color: #2563eb; /* Tailwind's text-blue-600 */
+    text-decoration: none;
+  }
+  
+  .job-actions {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+  }
+  
+  .update-button {
+    background-color: #fde68a; /* Tailwind's bg-yellow-300 */
+    padding: 0.25rem 0.5rem;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .delete-button {
+    background-color: #f87171; /* Tailwind's bg-red-400 */
+    padding: 0.25rem 0.5rem;
+    border: none;
+    cursor: pointer;
+  }
+  
